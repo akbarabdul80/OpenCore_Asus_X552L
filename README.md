@@ -1,5 +1,11 @@
-# OpenCore_Asus_X552L
-
+<p align="center">
+    <a href="#">
+          <p align="center"><img src="https://github.com/acidanthera/OpenCorePkg/raw/master/Docs/Logos/OpenCore_with_text_Small.png" alt="OPEN CORE" width="150" height="50"></p>
+    </a>
+  </p>
+<p align="center">
+    MacOs Big Sur on Asus X552L Laptop with OpenCore bootloader (hackintosh Big Sur) 
+</p>
 <hr>
     <p align="center"><img src="ss/ss.png" alt="Home Screen" width="auto" height="auto"></p>
     <p align="center">Screenshot</p>
